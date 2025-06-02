@@ -1,0 +1,1226 @@
+{
+    "companyName": "Sahyog Chehak",
+    "smallLogo": "smallLogo.png",
+    "largeLogo": "largeLogo.png",
+    "navbar": {
+        "logo": "logo-sahyog-small.png",
+        "navigationLinks": [
+            {
+                "name": "About Us",
+                "isDropdown": true,
+                "dropdown": [
+                    {
+                        "name": "Our Story",
+                        "link": "/our-story"
+                    },
+                    {
+                        "name": "Team",
+                        "link": "/team"
+                    },
+                    {
+                        "name": "Partners & Supporters",
+                        "link": "/partners&supporters"
+                    }
+                ]
+            },
+            {
+                "name": "Our Programs",
+                "isDropdown": true,
+                "dropdown": [
+                    {
+                        "name": "Sahyog Sangharsh",
+                        "link": "/sahyog-sangharsh"
+                    },
+                    {
+                        "name": "Sahyog Roshan",
+                        "link": "/sahyog-roshan"
+                    },
+                    {
+                        "name": "Sahyog Umang",
+                        "link": "/sahyog-umang"
+                    },
+                    {
+                        "name": "Sahyog Jhula",
+                        "link": "/sahyog-jhula"
+                    }
+                ]
+            },
+            {
+                "name": "Participate",
+                "isDropdown": true,
+                "dropdown": [
+                    {
+                        "name": "Join Us",
+                        "link": "/join-us"
+                    },
+                    {
+                        "name": "Partner With Us",
+                        "link": "/partner-with-us"
+                    }
+                ]
+            },
+            {
+                "name": "News/Updates",
+                "isDropdown": true,
+                "dropdown": [
+                    {
+                        "name": "Annual Reports",
+                        "link": "/reports"
+                    },
+                    {
+                        "name": "Financial Reports",
+                        "link": "/reports"
+                    },
+                    {
+                        "name": "Stories of change",
+                        "link": "/stories-of-change"
+                    },
+                    {
+                        "name": "News Coverage",
+                        "link": "/news-coverage"
+                    },
+                    {
+                        "name": "Creative Corner",
+                        "link": "/creative-corner"
+                    }
+                ]
+            }
+        ]
+    },
+    "footer": {
+        "logo": "logo-sahyog-small.png",
+        "socialMedia": [
+            {
+                "icon": "FaFacebook",
+                "link": "",
+                "name": "facebook"
+            },
+            {
+                "icon": "FaTwitter",
+                "link": "",
+                "name": "twitter"
+            },
+            {
+                "icon": "FaLinkedin",
+                "link": "",
+                "name": "linkedin"
+            }
+        ]
+    },
+    "home": {
+        "main": {
+            "title": "Sahyog Chehak",
+            "subTitle": "Women . Children . Change . Communities",
+            "paragraph": "A world where women and children can realise their potential and drive positive change in their communities.",
+            "buttons": [
+                {
+                    "text": "Donate",
+                    "icon": "GoHeartFill",
+                    "type": "light",
+                    "link": "/donate"
+                },
+                {
+                    "text": "Volunteer",
+                    "icon": "BiSolidDonateHeart",
+                    "type": "dark",
+                    "link": "/join-us"
+                }
+            ],
+            "carousel": [
+                {
+                    "subTitle": "image 1",
+                    "imageURL": "carousel1.png"
+                },
+                {
+                    "subTitle": "image 2",
+                    "imageURL": "carousel2.png"
+                },
+                {
+                    "subTitle": "image 3",
+                    "imageURL": "carousel3.png"
+                }
+            ],
+            "allowEdit": "true"
+        },
+        "homePartners": {
+            "title": "Supporters in our cause",
+            "logos": [
+                "home5.png",
+                "home1.png",
+                "home3.png",
+                "home2.png",
+                "home4.png"
+            ],
+            "allowEdit": "true"
+        },
+        "about": {
+            "title": "An Initiative of Chehak Trust Committed to Social Change",
+            "paragraph": "Sahyog Chehak, an initiative by Chehak Trust, is dedicated to driving social transformation by focusing on the needs of women and children. We believe in a community-driven approach where education serves as the catalyst for meaningful and lasting change. By empowering individuals through education, we pave the way for a brighter, more equitable future for all.",
+            "allowEdit": "true"
+        },
+        "areasOfWork": {
+            "title": "Our Areas of Work",
+            "areas": [
+                {
+                    "title": "Sahyog Umang",
+                    "subTitle": "Empowering girls & women",
+                    "imageURL": "area1.png",
+                    "link": "/sahyog-umang"
+                },
+                {
+                    "title": "Sahyog Sangharsh",
+                    "subTitle": "Disability Intervension",
+                    "imageURL": "area2.png",
+                    "link": "/sahyog-sangharsh"
+                },
+                {
+                    "title": "Sahyog Roshan",
+                    "subTitle": "Enrichment Education",
+                    "imageURL": "area3.png",
+                    "link": "/sahyog-roshan"
+                }
+            ],
+            "allowEdit": "true"
+        },
+        "values": {
+            "title": "We believe in",
+            "values": [
+                {
+                    "title": "Solidarity",
+                    "subTitle": "We're dedicated to personal and community growth, standing together for progress",
+                    "icon": "FaPeopleGroup",
+                    "imageURL": "solidarity.png",
+                    "size": "100"
+                },
+                {
+                    "title": "Integrity",
+                    "subTitle": "We're honest and accountable, valuing trust in our actions and partnerships",
+                    "icon": "GoLaw",
+                    "imageURL": "integrity.png",
+                    "size": "100"
+                },
+                {
+                    "title": "Learning",
+                    "subTitle": "We think learning is vital, fostering growth through ongoing education and skill-building",
+                    "icon": "FaBookOpenReader",
+                    "imageURL": "learning.png",
+                    "size": "100"
+                },
+                {
+                    "title": "Freedom",
+                    "subTitle": "We support freedom of thought and action, promoting respect and innovation",
+                    "icon": "GiFreedomDove",
+                    "imageURL": "freedom.png",
+                    "size": "100"
+                }
+            ],
+            "allowEdit": "true"
+        },
+        "vision": {
+            "title": "Vision",
+            "paragraph": "A world where women and children can realise their potential and drive positive change in their communities.",
+            "imageURL": "vision.png",
+            "allowEdit": "true"
+        },
+        "mission": {
+            "title": "Mission",
+            "paragraph": "We work for sustainable change in women and children from marginalised communities by providing them with enrichment education, special education, life skills and access to vocational opportunities.",
+            "imageURL": "mission.png",
+            "allowEdit": "true"
+        },
+        "joinUs": {
+            "title": "Transform Lives with Us",
+            "paragraph": "Become a driving force for positive change by joining Sahyog Chehak. Your contribution—whether through volunteering your time or partnering with us—makes a significant impact. By working together, we can create meaningful change and transform lives. Join our mission today and help us make a lasting difference in our communities.",
+            "buttons": [
+                {
+                    "text": "Volunteer",
+                    "icon": "BiSolidDonateHeart",
+                    "type": "light",
+                    "link": "https://forms.gle/qctNQJr3r9nWAsHL7"
+                },
+                {
+                    "text": "Partner With Us",
+                    "icon": "FaHandshakeSimple",
+                    "type": "dark",
+                    "link": ""
+                }
+            ],
+            "allowEdit": "true"
+        }
+    },
+    "trustees": {
+        "title": "Our Trustees",
+        "subTitle": "Sahyog, an initiative of Chehak Trust is governed by the following Board of Trustees",
+        "trustees": [
+            {
+                "imageURL": "",
+                "title": "NEHA MADHIWALLA",
+                "subTitle": "Research Scientist, Public Health Trust of India",
+                "paragraph": "Neha is the Managing Trustee and the founder of Sahyog. She has a Masters in Social Work from Tata Institute of Social Sciences. She has worked in social research since 1997 and been involved in life-skills training and curriculum development since 2002."
+            },
+            {
+                "imageURL": "",
+                "title": "BEENA CHOKSI",
+                "subTitle": "Educational Consultant",
+                "paragraph": "Beena has a Masters in Social Work from College of Social Work, Mumbai and a PhD in Education from the University of Illinois at Urbana-Champaign. She was a post-doctoral fellow at the Homi Bhabha Centre for Science Education.  She has worked on the professional development of teachers in formal and non-formal settings such as Shishuvan, Udayachal Primary School and Aseema."
+            },
+            {
+                "imageURL": "",
+                "title": "PRIYA AGRAWAL",
+                "subTitle": "Founder Director, Antarang Foundation",
+                "paragraph": "Priya founded Antarang Foundation in 2012 to help young adults from socially and economically vulnerable backgrounds manage their transition from education to employment. Prior to setting up Antarang Foundation, she spent 11 years in the Social Sector leading organisations like SNEHA and The Akanksha Foundation as COO. Priya has a Masters in Management from the SP Jain Institute of Management and Research. Priya is an Ashoka Fellow, a Dasra Social Impact Leadership Fellow and an Unlimited India Growth Challenge Fellow. "
+            },
+            {
+                "imageURL": "",
+                "title": "SURABHI SHARMA",
+                "subTitle": "Independent Filmmaker",
+                "paragraph": "Surabhi has been making documentaries since 2000. Her key concern has been documenting cities in transition through the lens of labour, music and migration, and most recently reproductive labour. Her films have been screened and awarded at international film festivals, museums and universities."
+            }
+        ],
+        "allowEdit": "true"
+    },
+    "storiesOfChange": {
+        "title": "Stories of Change",
+        "paragraph": "How Sahyog have been impacting lives of several households and indivisuals",
+        "stories": [
+            {
+                "id": 5,
+                "imageURL": "LikeABridgeOverTroubledWaters.png",
+                "title": "Like a bridge over troubled waters...",
+                "short": "Rihaan's parents embarked on a challenging yet transformative journey of parenting. Early in the pregnancy, his mother endured a fall, causing persistent pain until the 5th month. Rihaan's birth brought peculiarities—no immediate cry and a perpetually warm head—posing initial concerns. At 2.5 years old, Rihaan's fascination with loud music at a village wedding foreshadowed behaviors that would perplex his parents.",
+                "full": [
+                    "Rihaanss parents embarked on a challenging yet transformative journey of parenting. Early in the pregnancy, his mother endured a fall, causing persistent pain until the 5th month. Rihaan's birth brought peculiarities—no immediate cry and a perpetually warm head—posing initial concerns. At 2.5 years old, Rihaan's fascination with loud music at a village wedding foreshadowed behaviors that would perplex his parents.",
+                    "As Rihaan grew, his unique traits became more apparent—he couldn't sit still, spat, and made repetitive sounds. Despite living with extended family, support was scarce, leaving his parents feeling isolated. Challenges compounded daily, hindering their interactions with neighbors who struggled to comprehend Rihaan's behavior.",
+                    "A turning point came with a visit from a local Anganwadi worker who introduced Rihaan's parents to the Sahyog Sangharsh Center. Despite previous negative reactions to Rihaan's diagnoses of Autism Spectrum Disorder and Mild Intellectual Disability, the center provided a beacon of hope. Empathetic teachers embraced Rihaan, offering tailored therapies and support, easing his parents' frustrations. Despite its modest surroundings, the center provided comprehensive services and connected them with experts in child development and disabilities.",
+                    "Rihaan commenced therapy, supplemented by medication, and his mother diligently implemented the home program. Using reward-based techniques, the team tackled Rihaan's behaviors, fostering his focus on studies and independent living skills. Encouraged to interact with neighborhood children, Rihaan developed vital social skills",
+                    "These experiences transformed Rihaan's parents, who now cherish his small triumphs and find solace in the supportive community at the Sahyog Sangharsh Center. Despite occasional feelings of helplessness, they draw strength from knowing they're not alone in navigating the challenges of parenting their exceptional son."
+                ],
+                "viewMore": false
+            },
+            {
+                "id": 6,
+                "imageURL": "MeriDuniya.png",
+                "title": "Meri Duniya",
+                "short": "Devendra's upbringing is marked by his family's modest circumstances and his own unique challenges. Born to hardworking parents—a father driving an auto rickshaw and a mother employed at a local pharmacy—his early days were fraught with health complications. Just two days old, he suffered a seizure and required immediate medical intervention, spending a week in an incubator.",
+                "full": [
+                    "Devendra's upbringing is marked by his family's modest circumstances and his own unique challenges. Born to hardworking parents—a father driving an auto rickshaw and a mother employed at a local pharmacy—his early days were fraught with health complications. Just two days old, he suffered a seizure and required immediate medical intervention, spending a week in an incubator.",
+                    "As Devendra grew, his family noticed his inclination towards solitude and fascination with simple things, which often absorbed him completely. Despite their efforts, communication remained a challenge as Devendra didn't speak but expressed himself through gestures and movements, particularly responding to music.",
+                    "A ray of hope emerged when his father stumbled upon the Sangharsh Centre. Devendra was diagnosed with multiple disabilities, including intellectual disability, Autism Spectrum Disorder, and locomotive disability. Despite the family's financial constraints and his sister's attempts to connect with him, Devendra's world remained elusive.",
+                    "However, with intervention from the center, Devendra embarked on a journey of therapy and sensory exploration. While progress was slow and challenging, his gradual engagement with different textures and objects marked significant milestones. Encouraged by these successes, his family actively participated in his therapy and education, buoyed by the support and guidance from the center.",
+                    "Although Devendra still retreats into his own world at times, his family and the Sangharsh Centre remain steadfast in their commitment to his well-being, providing a beacon of hope amidst uncertainties"
+                ]
+            },
+            {
+                "id": 7,
+                "imageURL": "FromShadowToLight.png",
+                "title": "From shadow to light",
+                "short": "Kajol, a 20-year-old with a passion for art, has faced health challenges since childhood, impacting her confidence and making her reliant on family support. Enrolled in a local school by her grandfather, a teacher there, she led a sheltered life without facing discrimination. Despite her mother's tutoring, college brought daunting challenges as she faced teasing and struggled academically. Eventually, she dropped out, retreating into drawing at home.",
+                "full": [
+                    "Kajol, a 20-year-old with a passion for art, has faced health challenges since childhood, impacting her confidence and making her reliant on family support. Enrolled in a local school by her grandfather, a teacher there, she led a sheltered life without facing discrimination. Despite her mother's tutoring, college brought daunting challenges as she faced teasing and struggled academically. Eventually, she dropped out, retreating into drawing at home.",
+                    "Learning about Sangharsh, a center for young adults, Kajol and her family visited, finding solace in its supportive environment. Initially shy, she gradually found acceptance among peers and encouragement from teachers. With newfound confidence, she excelled academically and became a source of help for classmates.",
+                    "Despite this progress, her family grapples with uncertainty about her future. While Kajol has overcome self-doubt, her family remains hesitant to let her pursue vocational training independently. Sangharsh continues to support her, fostering her growth and advocating for her family's acceptance of her potential. Though the path forward may be uncertain, Sangharsh remains committed to Kajol's journey, knowing that patience and perseverance will ultimately lead to success."
+                ]
+            },
+            {
+                "id": 8,
+                "imageURL": "IAspireToBe.png",
+                "title": "I aspire to be?",
+                "short": "Hritik, born in Uttar Pradesh, faced early medical challenges resulting in physical and intellectual disabilities. Despite his struggles, his parents supported him lovingly. School life was marred by teasing, yet he cleared his 10th board exams with accommodations. College brought new challenges, leading to academic setbacks and loss of motivation.",
+                "full": [
+                    "Hritik, born in Uttar Pradesh, faced early medical challenges resulting in physical and intellectual disabilities. Despite his struggles, his parents supported him lovingly. School life was marred by teasing, yet he cleared his 10th board exams with accommodations. College brought new challenges, leading to academic setbacks and loss of motivation.",
+                    "In 2023, a neighbor introduced Hritik's mother to the Sangharsh center, offering support for young adults with disabilities. Initially hesitant, Hritik found it difficult to fit in among classmates with varying disabilities.",
+                    "Through encouragement from teachers and gradual interaction with peers, Hritik began to recognize his capabilities. Joining an apprenticeship program at a courier company through Sangharsh, he gained confidence and practical skills. Despite setbacks, like losing a job at Dmart, Hritik remained resilient, driven by a desire to support his family, especially with his sister's impending marriage.",
+                    "While his dream of becoming an actor lingers, Hritik now focuses on practical goals, aspiring to be a supportive son and brother. Despite facing societal challenges and personal setbacks, his journey reflects resilience and determination to contribute meaningfully to his family and society.",
+                    "Through Sangharsh's support and his own perseverance, Hritik continues to navigate life's challenges, resilient in his pursuit of independence and self-worth."
+                ]
+            },
+            {
+                "id": 9,
+                "imageURL": "MeraWalaDance.png",
+                "title": "Mera wala dance",
+                "short": "Jaya joined the center in August 2023, residing with her parents, granny, and younger brother. Initially, her development seemed typical, but by age two, her limited communication raised concerns. Upon learning about the Sangharsh center, her parents hoped it could address her needs before entering mainstream schooling.",
+                "full": [
+                    "Jaya joined the center in August 2023, residing with her parents, granny, and younger brother. Initially, her development seemed typical, but by age two, her limited communication raised concerns. Upon learning about the Sangharsh center, her parents hoped it could address her needs before entering mainstream schooling.",
+                    "The center's inclusive approach, accommodating all children regardless of disability, provided Jaya a nurturing environment. Despite challenges, teachers embraced her arrival, adapting to her energetic nature. Music emerged as a powerful tool, capturing Jaya's attention and facilitating learning through rhythmic movement.",
+                    "With time, Jaya made strides, grasping basic concepts and enhancing communication skills. Occupational therapy aided her sensory regulation, enhancing focus during lessons. Socialization with peers became integral, fostering crucial skills for school life.",
+                    "Amidst laughter and the rhythmic beats of music, Jaya's progress echoed through the center. Each day, she engaged in her favorite activity, \"Mera wala dance\", symbolizing her journey of growth and inclusion within the supportive community"
+                ]
+            },
+            {
+                "id": 1,
+                "imageURL": "SairaJourney.png",
+                "title": "Saira's Journey of Resilience and Redemption",
+                "short": "Saira, a 20-year-old girl living in Narayan Nagar Ghatkopar, faced significant challenges growing up. Orphaned at a young age, she lived with her grandmother, uncle, and aunt who were reluctant to take responsibility for her. Suffering from epilepsy and behavioral issues, she found solace in Sangharsh Disability Center she was enrolled in.",
+                "full": [
+                    "Saira, a 20-year-old girl living in Narayan Nagar Ghatkopar, faced significant challenges growing up. Orphaned at a young age, she lived with her grandmother, uncle, and aunt who were reluctant to take responsibility for her. Suffering from epilepsy and behavioral issues, she found solace in Sangharsh Disability Center she was enrolled in.",
+                    "Initially, Saira struggled with her emotions, exhibiting aggressive behavior and resistance to social interaction. However, with the help of a psychiatrist and regular medication, she began to show improvement. She became more composed, actively participating in center activities and even excelling in school after attending sessions on menstruation and personal hygiene",
+                    "A pivotal moment occurred when Saira sought help from the police after her family refused her and her grandmother entry into their home one night. This incident highlighted Saira's growth and resilience.",
+                    "Recognizing her progress, the center enrolled her in the Adapt Skill Development Centre where she flourished, particularly enjoying computer and dance classes. However, logistical issues forced her to leave the program, prompting the center to explore alternative solutions.",
+                    "Thus, the Sangharsh Apprenticeship Program was born, aiming to secure employment opportunities within the community for individuals like Saira. Through diligent outreach, they secured a partnership with Pharma X India Limited, where Saira received training and eventually a full-time job.",
+                    "Despite initial success, Saira faced setbacks when her family took her to their village, leading to her dismissal from the company due to excessive leave. Her aunt then decided to have her mother take Saira back permanently.",
+                    "In a surprising turn of events, Saira's mother returned to take her, expressing a newfound commitment to her daughter's well-being. Saira's life began to stabilize as she found employment and support within her family. With her mother's guidance, she learned household chores and even earned money by assisting neighbors.",
+                    "Ultimately, Saira's journey reflects resilience, community support, and the transformative power of opportunity and familial care."
+                ],
+                "viewMore": false
+            },
+            {
+                "id": 2,
+                "imageURL": "NishatStoryofChange.png",
+                "title": "Nishat's Story of Change",
+                "short": "Nishat ( name changed ) was born in her native village in Uttar Pradesh. She contracted double pneumonia at birth which resulted in convulsions and later an inability to walk. When she was about 6 yrs old, her family decided to migrate to Mumbai for better treatment.",
+                "full": [
+                    "Nishat ( name changed ) was born in her native village in Uttar Pradesh. She contracted double pneumonia at birth which resulted in convulsions and later an inability to walk. When she was about 6 yrs old, her family decided to migrate to Mumbai for better treatment. Nishat’s brother Mansur, a year older than her, had the same neurological disorder as her. Before they could move to Mumbai, the father had a fatal accident",
+                    "Mustering tremendous courage, Nishat's mother came to Mumbai and rented a small room for herself, Nishat, and Mansur in Narayan Nagar in Ghatkopar which was closer to her maternal home. Treatment and therapy was sought for both children. With therapy and medication, Nishat began walking by the age of seven. Her seizures too were brought under control. The mother enrolled Nishat in a local private school and the school authorities were supportive.",
+                    "In 2013, Nishat and her mother faced a second blow when Mansur fell ill and succumbed to his illness. Nishat was devastated since she was close to her brother. Her disability was becoming severe and more visible. She was losing control over her movements and her speech began to slur. Friends started avoiding her and she became an object of ridicule in her school. This prompted her mother to discontinue her schooling from Std.7 but it proved to be a huge setback for Nishat who enjoyed studies. In 2015, when Nishat’s mother took up a part-time job as a Child Health Worker in Sahyog’s Sankalp project (on early childhood development and disability) she would lock Nishat in the house when she left for work, to protect her from ridicule and harassment by neighbors. To minimise Nishat’s isolated existence, having her attend Sangharsh a couple of days a week was suggested to the mother—and she agreed. At Sangharsh, Nishat began to meet and interact with peers/children her age. Sahyog began to support expenses for medicines that were prescribed by a pediatric neurologist to control her seizures and tremors. She began coming to Sangharsh regularly and liked being with other children. Nishat’s mental health began improving. Her confidence returned and she started going out and interacting with people. She participated enthusiastically in Sangharsh’s Annual Day performance, and spoke in front of an audience. Her mother began to ask her to do household chores like buying provisions from the market.",
+                    "In the meantime, a vocational training centre was identified for Nishat to encourage her in her journey towards independence. She along with another Sangharsh student visited the centre regularly accompanied by a community volunteer. However, as the training centre was unable to offer her tasks to match her abilities, she stopped going.",
+                    "Nishat repeatedly expressed the desire to study and appear for the Std.10 Board exam. A search for a tutor was kept up till a suitable one was found. In August 2016, a young college student from a nearby community was identified and she took on the challenge to tutor Nishat who was returning to studies after gap of more than 3 years. Nishat continued receiving support and encouragement at Sangharsh during this trying period. The daughter of one of Sangharsh’s volunteers offered to be her writer for the board examination and spent time with Nishat in solving exam papers as part of the preparation. Nishat’s persistence, determination as well as the faith, support and encouragement from those who believed in her yielded results and she cleared the SSC examination in 2017 with 54%.",
+                    "Since 3rd of July 2017 she has been enrolled at ADAPT Skill Development Centre. Here, she is enrolled in a vocational class and during the week also participates in a variety of activities: yoga, dance therapy and computers. She is also working towards her next goal which is preparing for the Std. 12 Board exam. Her mother has been offered a full time job at the centre in the tailoring unit and so mother and daughter set out for work together. With the determination that Nishat has, we are as confident as her that she will make an independent life for herself—with a little help from friends and well-wishers."
+                ],
+                "viewMore": false
+            },
+            {
+                "id": 3,
+                "imageURL": "SonalJourneytoIndependence.png",
+                "title": "Sonal's Journey to Independence",
+                "short": "Sonal, a young adult of 20 years, possesses a mischievous smile and a love for dressing up and dancing. She was enrolled in a local special school until she turned 18, she later joined Sangharsh disability centre, where she found a safe and supportive environment.  Sonal lost her father at a young age, her family consists of  her mother and two brothers. Being the only girl her family is very protective of her. Despite her struggles with basic literacy and money transactions, Sonal's independent spirit shines through in her personal grooming and attempts at home chores.",
+                "full": [
+                    "Sonal, a young adult of 20 years, possesses a mischievous smile and a love for dressing up and dancing. She was enrolled in a local special school until she turned 18, she later joined Sangharsh disability centre, where she found a safe and supportive environment.  Sonal lost her father at a young age, her family consists of  her mother and two brothers. Being the only girl her family is very protective of her. Despite her struggles with basic literacy and money transactions, Sonal's independent spirit shines through in her personal grooming and attempts at home chores.",
+                    "Supported by her mother, who herself was married young and taught Sonal household responsibilities early on, Sonal enjoys cooking, painting diyas, and making Rakhis. However, her trusting nature makes her vulnerable, prompting her family to be cautious about her interactions with strangers. To address this, Sangharsh worked with Sonal's on her personal safety skills through role plays, community visits, and engagement with her classmates.",
+                    "The narrative underscores the need for societal efforts to create safe environments where individuals like Sonal can thrive without compromising their identities. By fostering awareness and understanding, communities can ensure that young adults with disabilities can participate fully and contribute meaningfully to society while providing peace of mind to their families."
+                ],
+                "viewMore": false
+            }
+        ],
+        "allowEdit": "true"
+    },
+    "aboutUs": {
+        "sections": [
+            {
+                "title": "How We Began",
+                "subTitle": "",
+                "paragraph": [
+                    {
+                        "title": "",
+                        "text": "The idea of Sahyog, a community-based model of education, germinated when two of the founding members, Neha Madhiwalla and Padma Deosthali, were doing research among the women in slum pockets of Jari Mari, Andheri-Kurla."
+                    },
+                    {
+                        "title": "",
+                        "text": "A large number of the girls had dropped out of elementary education because of poverty, inadequate number of secondary schools in the neighbourhood, and social strictures applied to adolescent girls. A population even more vulnerable than adolescent girls were children with disabilities for whom there were no educational resources; their vulnerability further compounded by their parents’ ignorance about such resources or inability to access them. This led to the decision to create community-based alternatives for the education of girl dropouts and out-of-school children with disabilities."
+                    },
+                    {
+                        "title": "",
+                        "text": "What started on June 5, 2000, in Jari Mari, as a daily four-hour class with 20 out-of-school adolescent girls and one teacher, grew into Sahyog School—a non-formal school offering elementary and secondary education through the National Institute of Open Schooling as well as Sahyog Jhula, a life skills programme. The second Sahyog School was set up in 2002, almost 20 kilometres away from Jari Mari, in a slum rehabilitation project at Dindoshi, Goregaon East to where several of the school girls had been relocated. In the same year, Sahyog Sangharsh, a centre  for the education and rehabilitation of children with disabilities was started in the Jari Mari community. By 2010, more than 800 girls had passed through the portals of Sahyog School and 100 children through Sahyog Sangharsh."
+                    },
+                    {
+                        "title": "",
+                        "text": "Many girls appeared for the Class 10 exam due to the dedication of their teachers, the perseverance of their families, and their own conviction. Many did not due to early marriages, family circumstances, and change in residence. But going to and through a Sahyog School, taught them to walk with their heads held high and look people straight in the eye."
+                    },
+                    {
+                        "title": "",
+                        "text": "With the girls in both communities successfully overcoming external and internal barriers to access mainstream educational institutions, we were confronted with a heartening reality that challenged our core work of educating adolescent girl dropouts. It was time to move beyond the Sahyog Schools. Bestowed with and bolstered by the EdelGive Social Innovation Honour in 2010, we were ready to build anew on the strong foundation established by the community-based model of education. Sahyog Umang, Sahyog Roshan and Sahyog Sankalp are testimony to that."
+                    }
+                ]
+            },
+            {
+                "title": "Areas of Work",
+                "subTitle": "At Sahyog Chehak Trust, our efforts focus on these key areas:",
+                "paragraph": [
+                    {
+                        "title": "Inclusive Education:",
+                        "text": "Through Sahyog Sangharsh, we support children and young adults with disabilities by providing specialized education, therapy, and skill-building to help them integrate into schools and workplaces."
+                    },
+                    {
+                        "title": "Promoting Literacy:",
+                        "text": "Sahyog Roshan encourages a love for reading among children through storytelling, quiet reading, and library-based activities."
+                    },
+                    {
+                        "title": "Educational Support and Mentorship:",
+                        "text": "Sahyog Scholarship-Mentorship Program offers financial assistance and personalized mentorship to students from low-income communities, empowering them to complete their education and develop life skills."
+                    },
+                    {
+                        "title": "Empowering Women:",
+                        "text": "Sahyog Umang trains young women for careers in the social sector through life skills development, perspective-building, and hands-on experience, fostering independence and confidence."
+                    }
+                ]
+            }
+        ]
+    },
+    "sangharsh": {
+        "logo": "logo-sangharsh.png",
+        "title": "",
+        "highlights": [
+            {
+                "h1": "327",
+                "text": "Person with disability reached"
+            },
+            {
+                "h1": "276",
+                "text": "Centre based interventions"
+            },
+            {
+                "h1": "90",
+                "text": "Reintegration Schools & Vocational Centres"
+            },
+            {
+                "h1": "5:1",
+                "text": "Student Teacher Ratio"
+            }
+        ],
+        "paragraph1": {
+            "title": "About Sangharsh",
+            "text1": "Sahyog Sangharsh is dedicated to supporting children, adolescents and young adults with disabilities from the very beginning. We focus on educating the community about disabilities, providing specialized education, and helping children, improve in areas they find challenging. Our goal is to integrate these children into mainstream schools or help them secure employment.",
+            "text2": "Our center offers a welcoming environment for children with hearing impairments, learning disabilities, autism, or mobility challenges. Here, they can learn, play, and engage in enjoyable activities while receiving therapy to enhance their daily living skills. At Sahyog Sangharsh, we strive to ensure that every child has the opportunity to learn, grow, and thrive."
+        },
+        "betweenParaImages": [
+            {
+                "url": "sahyog-para-1.png"
+            },
+            {
+                "url": "sahyog-para-2.png"
+            },
+            {
+                "url": "sahyog-para-3.png"
+            }
+        ],
+        "paragraph2": {
+            "title": "How we began",
+            "text1": "Sangharsh was established in the Jari Mari community, Kurla, in May 2003 to promote inclusive education and support community-based rehabilitation. In 2011, the program relocated to Kaju Pada in the Kurla-Ghatkopar area, as residents of nearby settlements struggled to access services in Jari Mari. A 2012 survey of 500 households in Ashok Nagar, Kaju Pada, revealed a significant number of young adults aged 13 to 20 with various disabilities who had little formal education or socialization. This highlighted the need for a Zero Rejection policy, ensuring that families lacking resources could still educate their children. Consequently, Sahyog Sangharsh became an accessible community center.",
+            "text2": "Recognizing service gaps for older adults with disabilities, the team strengthened ties with government agencies. Over seven years, the center saw an increase in participants and a decrease in referral ages to below six years. To meet growing needs, Sahyog Sangharsh expanded its services, incorporating medical experts and professionals, and fostering inclusion and community engagement through collaborations with like-minded organizations. By 2020, the program further extended its reach by opening two new locations in Asalpha, Ghatkopar, and Bailbazaar, Kurla, to better serve the diverse needs of individuals with disabilities."
+        },
+        "paragraph3": {
+            "title": "What we do",
+            "paragraph": [
+                {
+                    "title": "Early Childhood Development",
+                    "text": "We recognize the need for early identification of children with disabilities. Initiation of satellite centers in the community libraries where we are reaching out to children between the ages of 0 to 3 years. The program is geared towards enabling families to provide responsive caregiving and creating a stimulating environment for their child’s development. The focus is on the Caregivers by mentoring them and helping them in this journey."
+                },
+                {
+                    "title": "Awareness & Sensitization of the Society",
+                    "text": "It is not only the family but the society at large that is responsible for the social upbringing of the person with a disabiltiy. At times, myths and misoners about disability influence the attitude and the response of the people making it difficult for them to look at the disability as part of the society and not apart. Our sensitization sessions engage the community stakeholders to look at a person with a disability through a rights perspective and realize the world we envisioned is for every person to be respected, accepted, and included."
+                },
+                {
+                    "title": "Inclusion",
+                    "text": "The spirit of Inclusion guides the Sangharsh programs, we believe this can only become a reality when practiced consciously. At Sangharsh, efforts are made to create such platforms for inclusion through the Meljhol Inclusive Camps, On-the-job apprenticeship and employment opportunities in the community, and mainstreaming children in schools where both children with and without disabilities are studying together."
+                },
+                {
+                    "title": "Remediation & Pre-vocational",
+                    "text": "School readiness program is offered to children between the ages of 3 to 10 years. Through play and experiential learning, the children are prepared for mainstreaming concepts of pre-academics. The interaction with other children and inclusive activities prepare them for socializing. An individual Education plan is made for each child and is reviewed on a biannual basis by the teachers. Mobility orientation visits are organized for adolescents and young adults with a special session on functional literacy, lifeskills, and pre-vocational skills. On-the-job training has been introduced to prepare the young adults for exposure to working industries available along with the Sangharsh apprenticeship program which is preparing them for long-term employment."
+                },
+                {
+                    "title": "Therapeutic services",
+                    "text": "Sahyog Sangharsh has onboard a multidisciplinary team of Doctors and professionals, providing, in-house assessments, consultation, and therapy. We wanted to create a center that provided all the services for disability rehabilitation under one roof. Having an in-house team has augmented the remediation teaching at the center. Therapy, medical support, assisted devices, and remediation have led to an overall impact on the progress of the child. The families are encouraged to pursue getting the disability certification and linked to schemes like Niramaya Health insurance for medical support. Camps held in the year for monitoring health - routine blood check, eye and dental."
+                },
+                {
+                    "title": "Caregivers Capacity Building",
+                    "text": "Parents are like co teacher in facilitating the skills of the children, we recognize the value in building our parents capacity. Along with the regular parents meeting, there are sessions organized focusing on behavioral issues faces, stress, financial management and future planning etc. Caregivers module has been developed to help the family understand about the disability and learn how to create a home environment conducive for learning."
+                }
+            ]
+        },
+        "photographs": {
+            "title": "Highlights from Sanghash",
+            "images": [
+                {
+                    "url": "sangharsh1.png",
+                    "label": "Medical Intervension"
+                },
+                {
+                    "url": "sangharsh2.png",
+                    "label": "Home Based Intervention"
+                },
+                {
+                    "url": "sangharsh3.png",
+                    "label": "Skill Developement"
+                },
+                {
+                    "url": "sangharsh4.png",
+                    "label": "Therapy Sessions"
+                },
+                {
+                    "url": "sangharsh5.png",
+                    "label": "Financial Assistance"
+                },
+                {
+                    "url": "sangharsh6.png",
+                    "label": "Field Trips"
+                }
+            ]
+        },
+        "aim": {
+            "title": "We aim at providing",
+            "cards": [
+                {
+                    "imageURL": "sangharsh_aim1.png",
+                    "title": "Assessment and Individual Education Plan",
+                    "subTitle": "Children are professionally assessed for an accurate diagnosis of their disability"
+                },
+                {
+                    "imageURL": "sangharsh_aim2.png",
+                    "title": "Remediation & Prevocational",
+                    "subTitle": "Based on their disabilities, we make a plan to teach them reading, math, and talking skills"
+                },
+                {
+                    "imageURL": "sangharsh_aim3.png",
+                    "title": "Reintegration and Apprenticeship",
+                    "subTitle": "Special schools and vocational/ employment generation programmes are identified for reintegration and placement"
+                },
+                {
+                    "imageURL": "sangharsh_aim4.png",
+                    "title": "Disability entitlements",
+                    "subTitle": "Registration of disability card and linking them to avail government schemes"
+                },
+                {
+                    "imageURL": "medical-aid.png",
+                    "title": "Therapeutic Support",
+                    "subTitle": "Therapy, medical support, assisted devices, and home-based support"
+                }
+            ]
+        },
+        "footerURL": "sangharsh_footer.png"
+    },
+    "roshan": {
+        "logo": "logo-roshan.png",
+        "title": "",
+        "highlights": [
+            {
+                "h1": "10",
+                "text": "years of field experience"
+            },
+            {
+                "h1": "700+",
+                "text": "children reached"
+            },
+            {
+                "h1": "2500+",
+                "text": "books in collection"
+            },
+            {
+                "h1": "17",
+                "text": "Libraries"
+            }
+        ],
+        "paragraph1": {
+            "title": "About Roshan",
+            "text": "Roshan is a library programme for children, awakening in them the joy of reading. Set up in June 2016 as a community-based and a mobile library and through a library-in-school model launched in September 2017, we strive to take books and stories to as many children as possible in Narayan Nagar, Ghatkopar West. Through quiet reading, story telling sessions and book-based activities and events, Roshan encourages children to develop a love for language and a companionship with books."
+        },
+        "whatWeDo": [
+            {
+                "title": "Homebased Library",
+                "text": "The home library has become a vibrant hub for children in the community, fostering a love for reading through activities like storytelling and quiet reading. By offering the luxury of borrowing books, it has helped develop strong language and communication skills, while also nurturing creativity and critical thinking through various engaging activities."
+            },
+            {
+                "title": "Gender and Social Emotional Learning",
+                "text": "Interactive sessions on gender perspectives and social-emotional learning help cultivate a generation of open-minded individuals while providing them with the tools to navigate life's challenges with resilience and maturity."
+            },
+            {
+                "title": "Events & Camps",
+                "text": "Events like Read Aloud and Storytelling at various community venues promote the importance of libraries and reading, leading to increased community involvement and volunteerism, while online enrichment camps, introduced during the Covid lockdown, now attract a growing number of participants each year, fostering joy, learning, and inclusivity."
+            },
+            {
+                "title": "Exposure Visits",
+                "text": "Children visiting other organizations' libraries learn about different communities, interact with new people, and practice social etiquette, gaining valuable knowledge about their community and the people who live there."
+            },
+            {
+                "title": "Training & Capacity Building",
+                "text": "The Roshan team shares its years of experiential learning to build the capacity of other organizations and home librarians, focusing on logistical knowledge, cultivating a love for reading, and empowering the community to create enriching library experiences for children."
+            }
+        ],
+        "paragraph2": {
+            "title": "How we began",
+            "text": [
+                "Roshan Library began its innings in 2013, in the most unlikely of spaces: a room next to a butcher's shop in a slum rehabilitation community in Goregaon. Over a period of three years, setting up a welcoming library with attractive books, conducting book-based activities, and carrying out outreach activities succeeded in the community understanding the purpose of a library as well as recognising the value books brought to the lives of their children.",
+                "The day a few parents removed prized objects from their sole showcase and replaced them with books, we dared to believe that we had carved a special space for books in their hearts. In 2016, when Sahyog took a tough decision to exit the Goregaon community, we left knowing that the children coming to Roshan had built a strong and joyful relationship with books and reading was much more than an academic chore.",
+                "The work of Bookworm Trust in Goa has inspired us to expand the scope of our work in Ghatkopar by starting a mobile library and planning the library-in-school model.  The Roshan Library programme has taken root and is growing steadily."
+            ]
+        },
+        "photographs": {
+            "title": "Highlights from Roshan",
+            "images": [
+                {
+                    "url": "https://just-a-valueye-bucket.s3.eu-north-1.amazonaws.com/sahyog-chehak/roshan1.png"
+                },
+                {
+                    "url": "https://just-a-valueye-bucket.s3.eu-north-1.amazonaws.com/sahyog-chehak/roshan2.png"
+                },
+                {
+                    "url": "https://just-a-valueye-bucket.s3.eu-north-1.amazonaws.com/sahyog-chehak/roshan3.png"
+                },
+                {
+                    "url": "https://just-a-valueye-bucket.s3.eu-north-1.amazonaws.com/sahyog-chehak/roshan4.png"
+                },
+                {
+                    "url": "https://just-a-valueye-bucket.s3.eu-north-1.amazonaws.com/sahyog-chehak/roshan5.png"
+                },
+                {
+                    "url": "https://just-a-valueye-bucket.s3.eu-north-1.amazonaws.com/sahyog-chehak/roshan6.png"
+                }
+            ]
+        },
+        "footerURL": "roshan_footer.png"
+    },
+    "umang": {
+        "logo": "",
+        "title": "Umang",
+        "highlights": [
+            {
+                "h1": "235",
+                "text": "Scholarship Provided"
+            },
+            {
+                "h1": "50+",
+                "text": "Perspective Sessions"
+            },
+            {
+                "h1": "600+",
+                "text": "Women in Vocational Courses"
+            }
+        ],
+        "paragraph1": {
+            "title": "About Umang",
+            "text": [
+                "Sahyog Umang was born from our commitment to support young women in pursuing social sector careers. We recognized the dual benefit: these roles, though less financially rewarding, offer lifelong vocational opportunities and significant personal growth. Furthermore, having trained women professionals in the community fosters essential services and a progressive environment, inspiring more young women to embark on similar paths.",
+                "We initiated a one-year part-time training program that included life-skills training, perspective-building sessions, orientation to social sector careers, introductions to women professionals, and spoken-English lessons. Trainees also volunteered in Sahyog’s programs, gaining practical experience. Post-training, they were placed in NGOs for six months of hands-on experience. Through this journey, 200 girls completed their school-leaving exams, with about 100 transitioning to college. Many others pursued skills through various training courses, apprenticeships, and employment.",
+                "The impact was profound: none of the participants married before 18, and they valued the program for empowering them to make independent decisions, move around confidently, and express themselves freely."
+            ]
+        },
+        "betweenParaImages": [
+            {
+                "url": "sahyog-para-1.png"
+            },
+            {
+                "url": "sahyog-para-2.png"
+            },
+            {
+                "url": "sahyog-para-3.png"
+            }
+        ],
+        "paragraph2": {
+            "title": "How we began",
+            "text": [
+                "Our work with adolescent girls and young women from low-income communities revealed the critical need for both scholarship and mentorship to support secondary and higher education. Financial assistance helps ensure girls complete their education despite socio-economic challenges, while personalized guidance through mentorship fosters confident, well-rounded personalities.",
+                "In June 2017, we launched the Umang Scholarship-Mentorship Program under the Sahyog Umang umbrella, aiming to provide comprehensive support to young girls in the Narayan Nagar Community, covering Junior College, Secondary School, Graduation, and professional courses."
+            ]
+        },
+        "aim": {
+            "cards": [
+                {
+                    "imageURL": "umang-aim-1.png",
+                    "title": "Scholarship and Mentorship",
+                    "subTitle": "Financial aid and guidance for educational and personal growth."
+                },
+                {
+                    "imageURL": "umang-aim-2.png",
+                    "title": "Skill Development",
+                    "subTitle": "Vocational training for women to support themselves and their families."
+                },
+                {
+                    "imageURL": "umang-aim-3.png",
+                    "title": "Community Engagement",
+                    "subTitle": "Engaging students in community service to develop skills and responsibility."
+                }
+            ]
+        },
+        "scholarship_mentorship": {
+            "title": "Sahyog Scholarship and Mentorship Program (SAM)",
+            "highlight": "Since 2003 Sangharsh has reached out to over 250 children with Disability",
+            "data": [
+                {
+                    "title": "",
+                    "text": "At Sahyog, we recognize that both scholarship and mentorship are essential for supporting the secondary and higher education of girls from low-income communities. Financial assistance ensures that, despite socio-economic challenges, girls can complete their education and pursue further studies. Personalized mentorship, meanwhile, provides crucial guidance to help them overcome academic and personal hurdles, fostering the development of confident, well-rounded individuals."
+                },
+                {
+                    "title": "",
+                    "text": "Since June 2017, our Scholarship-Mentorship Program has been supporting a cohort of 25 girls from the Narayan Nagar community. This includes 10 girls in Junior College, 12 in Secondary School, and 3 pursuing higher education or professional courses. For our Junior College students, we have partnered with Mentor Together, a program specializing in mentorship since 2009."
+                },
+                {
+                    "title": "",
+                    "text": "Currently, we select deserving students from the local community each year. In addition to financial assistance provided through sponsors, our program emphasizes holistic development for them. We offer workshops and courses on vital skills, such as spoken English, digital literacy, mental well-being, gender issues, and career exploration. These efforts ensure our students are not only supported financially but are also equipped to face personal and academic challenges, helping them grow into confident and capable individuals."
+                },
+                {
+                    "title": "",
+                    "text": "Initiated in June 2017, this programme supports young girls by providing financial assistance and one-to-one mentorship for both academic and personal development."
+                }
+            ],
+            "list": {
+                "heading": "Scholarship Impact Details:",
+                "listItems": [
+                    "Ness and Deloitte Scholarship: 25",
+                    "WTW Scholarship: 26",
+                    "Adani Scholarship: 16",
+                    "Bajaj Scholarship: 37",
+                    "Citco Scholarship: 12",
+                    "G2A Scholarship: 45",
+                    "Bajaj Scholarship (second instance): 33",
+                    "Ness Scholarship: 26",
+                    "Individual Donors: 15",
+                    "Total Scholarships Provided: 235"
+                ]
+            }
+        },
+        "whatwedo": {
+            "title": "What we do",
+            "data": [
+                {
+                    "title": "Mentoring",
+                    "text": "We are developing a platform to connect professionals who are passionate about mentoring young scholars, helping them with both educational and personal development. Mentoring takes place across all our programs, from the Scholarship-Mentorship Program to the Umang Skill Development Program."
+                },
+                {
+                    "title": "Volunteering",
+                    "text": "We encourage our students to volunteer in Sahyog's community programs. Volunteering not only builds character and skills but also fosters a spirit of giving back to the community."
+                },
+                {
+                    "title": "Samagam",
+                    "text": "Launched in 2022, Samagam is an alumni group platform for students to exchange ideas and experiences, fostering peer bonding and motivation. These quarterly meetings at Sahyog community centers address concerns and fears with support from experts."
+                },
+                {
+                    "title": "Perspective Building Sessions",
+                    "text": "We conduct regular sessions covering topics such as social awareness, gender issues, personality development, and mental health."
+                },
+                {
+                    "title": "Women's Skill Development Program (2017-23)",
+                    "text": "This programme equips women with practical vocational skills to help them achieve economic independence in a supportive environment. In collaboration with Shrimad Rajchandra Love & Care Foundation, the following free training courses are offered:",
+                    "data": [
+                        "Basic Parlour Course: 191 enrollees",
+                        "Spoken English Course: 179 enrollees",
+                        "Mehendi Course: 197 enrollees",
+                        "Cooking Course: 60 enrollees"
+                    ]
+                },
+                {
+                    "title": " Entitlements & Job Placements",
+                    "text": "We educate women about various schemes and services available to them, supplementing their financial situation. Post-training, we assist them in finding job opportunities."
+                },
+                {
+                    "title": "Social Inclusion",
+                    "text": "Our programs emphasize social inclusion, encouraging participants to work together across community lines, fostering social support systems, and participating in gender sessions and community events."
+                }
+            ]
+        },
+        "photographs": {
+            "title": "Highlights from Sanghash",
+            "images": [
+                {
+                    "url": "https://just-a-valueye-bucket.s3.eu-north-1.amazonaws.com/sahyog-chehak/umang-1.png",
+                    "label": ""
+                },
+                {
+                    "url": "https://just-a-valueye-bucket.s3.eu-north-1.amazonaws.com/sahyog-chehak/umang-2.png",
+                    "label": ""
+                },
+                {
+                    "url": "https://just-a-valueye-bucket.s3.eu-north-1.amazonaws.com/sahyog-chehak/umang-3.png",
+                    "label": ""
+                },
+                {
+                    "url": "https://just-a-valueye-bucket.s3.eu-north-1.amazonaws.com/sahyog-chehak/umang-4.png",
+                    "label": ""
+                },
+                {
+                    "url": "https://just-a-valueye-bucket.s3.eu-north-1.amazonaws.com/sahyog-chehak/umang-5.png",
+                    "label": ""
+                },
+                {
+                    "url": "https://just-a-valueye-bucket.s3.eu-north-1.amazonaws.com/sahyog-chehak/umang-6.png",
+                    "label": ""
+                }
+            ]
+        },
+        "footerURL": "umang_footer.png"
+    },
+    "jhula": {
+        "logo": "logo-jhula.png",
+        "title": "",
+        "image": "jhula-main.png",
+        "highlights": [
+            {
+                "h1": "20,000+ girls",
+                "text": "Empowered through the Tejaswini programme across Maharashtra"
+            },
+            {
+                "h1": "1200 girls",
+                "text": "Trained in life-skills across BMC schools"
+            },
+            {
+                "h1": "50 Blocks",
+                "text": "Covered across rural and urban Maharashtra"
+            },
+            {
+                "h1": "7 Community Organisations",
+                "text": "Trained through ToT workshops between 2012-2015"
+            }
+        ],
+        "highlight": "664 girls have undergone the Jhula Life Skills Programme",
+        "paragraph1": {
+            "title": "About Jhula",
+            "text1": "Jhula, the life-skills programme, is the outcome of Sahyog's experiences in education and community health and has been developed from a rights-based perspective. For adolescent girls growing up in underprivileged families, life is careworn as they shoulder myriad household responsibilities and mobility is largely restricted. The yearning to be free is buried deep.",
+            "text2": "The thrill of going up in a swing and coming down in a rush is a universal, unforgettable experience imbued with the feeling of freedom. We named the life-skills programme Jhula to symbolise this feeling of being free, care-free, free to explore and experience--the hallmark of adolescence.",
+            "text3": "The three themes of Jhula: Jism (Body), Jahan (World), and Zindagi (Life), encompassed in 8 modules, address the various spaces, experiences, and institutions that the girls we work with are likely to face. Jhula combines learning with practical work and community interaction to allow girls to step out of restricted spaces. It aims to give the girls knowledge, skills, and experiences that are otherwise inaccessible to them."
+        },
+        "aim": {
+            "cards": [
+                {
+                    "imageURL": "jhula-aim-1.png",
+                    "title": "Empower",
+                    "subTitle": "Build knowledge and confidence among adolescent girls"
+                },
+                {
+                    "imageURL": "jhula-aim-2.png",
+                    "title": "Engage",
+                    "subTitle": "Encourage freedom of thought and self-expression"
+                },
+                {
+                    "imageURL": "jhula-aim-3.png",
+                    "title": "Explore",
+                    "subTitle": "Connect girls with community and real-world experiences"
+                },
+                {
+                    "imageURL": "jhula-aim-4.png",
+                    "title": "Equip",
+                    "subTitle": "Provide life-skills for informed decisions and future opportunities"
+                }
+            ]
+        },
+        "methodology": {
+            "title": "Methodology",
+            "para": "Jhula uses research-based content, group-building exercises, stories, songs, and games to engage adolescent girls. Each session lasts up to 2 hours and is designed to enhance knowledge, reflective skills, and motivation for action."
+        },
+        "scope": {
+            "title": "Scope",
+            "para": "Jhula is implemented in both formal and informal settings, including schools, vocational training centres, and community-based after-school programmes across Mumbai suburbs like Jari Mari, Mankhurd, Ghatkopar, Govandi, and Dindoshi."
+        },
+        "photographs": {
+            "title": "Highlights from Jhula",
+            "images": [
+                {
+                    "url": "jhula1.png",
+                    "label": ""
+                },
+                {
+                    "url": "jhula2.png",
+                    "label": ""
+                },
+                {
+                    "url": "jhula3.png",
+                    "label": ""
+                }
+            ]
+        },
+        "footerURL": "jhula_footer.png"
+    },
+    "team": {
+        "teamArray": [
+            {
+                "name": "Trustees",
+                "array": [
+                    {
+                        "title": "Neha Madhiwala",
+                        "subTitle": "Founder Trustee Research Scientist, Public Health Trust of India",
+                        "paragraph": "Neha is the Managing Trustee and the founder of Sahyog. She has a Masters in Social Work from Tata Institute of Social Sciences. She has worked in social research since 1997 and been involved in life-skills training and curriculum development since 2002.",
+                        "imageURL": ""
+                    },
+                    {
+                        "title": "Beena Choksi",
+                        "subTitle": "Trustee, Educational Consultant",
+                        "paragraph": "Beena has a Masters in Social Work from College of Social Work, Mumbai and a PhD in Education from the University of Illinois at Urbana-Champaign. She was a post-doctoral fellow at the Homi Bhabha Centre for Science Education.  She has worked on the professional development of teachers in formal and non-formal settings such as Shishuvan, Udayachal Primary School and Aseema.",
+                        "imageURL": ""
+                    },
+                    {
+                        "title": "Surabhi Sharma",
+                        "subTitle": "Trustee & Independent Filmmaker",
+                        "paragraph": "Surabhi has been making documentaries since 2000. Her key concern has been documenting cities in transition through the lens of labour, music and migration, and most recently reproductive labour. Her films have been screened and awarded at international film festivals, museums and universities.",
+                        "imageURL": ""
+                    },
+                    {
+                        "title": "Priya Agrawal",
+                        "subTitle": "Founder Director, Antarang Foundation",
+                        "paragraph": "Priya founded Antarang Foundation in 2012 to help young adults from socially and economically vulnerable backgrounds manage their transition from education to employment. Prior to setting up Antarang Foundation, she spent 11 years in the Social Sector leading organisations like SNEHA and The Akanksha Foundation as COO. Priya has a Masters in Management from the SP Jain Institute of Management and Research. Priya is an Ashoka Fellow, a Dasra Social Impact Leadership Fellow and an Unlimited India Growth Challenge Fellow.",
+                        "imageURL": ""
+                    },
+                    {
+                        "title": "Sonal Gandhi",
+                        "subTitle": "Trustee, Education Enthusiast",
+                        "paragraph": "Sonal, a Computer Science graduate from Shri Bhagubhai Mafatlal Polytechnic, holds a Microsoft Certified Professional designation. With experience as a lecturer in Computer Technology and as an IT Manager at a leading Electrical company, she brings a wealth of knowledge and expertise to the table. Passionate about education and community engagement, Sonal has been dedicated to teaching underprivileged children from a young age. Since 2017, she has been actively involved with Sahyog Sangharsh as a volunteer, where she played a pivotal role in shaping our local networking and collaboration strategies. Additionally, Sonal has served as a mentor to our scholarship recipients, embodying our commitment to empowering the next generation.",
+                        "imageURL": ""
+                    }
+                ]
+            },
+            {
+                "name": "Team",
+                "array": [
+                    {
+                        "title": "Ruvina Fernandes",
+                        "subTitle": "Community Coordinator",
+                        "paragraph": "Ruvina joined Sahyog in 2013 as Umang Coordinator, overseeing a skills training program for young women in Gautam Nagar, Govandi, and Chikuwadi, Mankhurd communities. With previous experience at Childline India Foundation and International Justice Mission, she holds a BA and a Post Graduate Diploma in Special Education, currently pursuing her Masters in Social Work. As Community Coordinator, Ruvina plays a pivotal role in grounding Sahyog’s initiatives, mentoring Sangharsh and Sankalp teams, and contributing to organizational development.",
+                        "email": "ruvina@sahyogchehak.org.in",
+                        "imageURL": "ruvina.jpg"
+                    },
+                    {
+                        "title": "Swati Sakpal",
+                        "subTitle": "Administration Head",
+                        "paragraph": "Swati Sakpal joined the team in 2008 and attends to Sahyog’s accounts-related and administrative tasks efficiently and briskly.  She has steadily developed her computer skills. Whether it is from banks, the auditor, or the Charity Commissioner’s Office, Swati is the one we depend upon for answers to our queries. Swati has completed her SYBCom and has picked up many skills on the job.",
+                        "email": "swati@sahyogchehak.org.in",
+                        "imageURL": "swati.jpg"
+                    },
+                    {
+                        "title": "Jabin Khan",
+                        "subTitle": "Sr Programme Assistant ( Accounts and Communication)",
+                        "paragraph": "Jabin, a former student of Sahyog School, joined as a teacher in 2007 and now serves as a Senior Programme Assistant (Accounts and Communication). Meticulously managing accounts, documentation, and media-related tasks, she energetically assists with day-to-day operations and outreach work. Jabin has completed a Basic Counseling Certificate Course and Paraprofessional course from Nirmala Niketan College of Social Work. She also completed her BA through distance education.",
+                        "email": "jabin@sahyogchehak.org.in",
+                        "imageURL": "jabin.jpg"
+                    },
+                    {
+                        "title": "Sandhya Maghade",
+                        "subTitle": "Centre Head",
+                        "paragraph": "Sandhya Maghade, with a BA and MSW, joined Sahyog Sangharsh in 2011 as a Social Worker. In 2013, she completed the rigorous Child Development Aide course at Ummeed, enhancing her ability to work with children with disabilities. Sandhya now heads Sangharsh, supervising center-based and home-based interventions. She also leads community-based programs for creating inclusive communities. Currently, she is in her 3rd year of the LLB course.",
+                        "email": "sandhya@sahyogchehak.org.in",
+                        "imageURL": "sandhya.jpg"
+                    },
+                    {
+                        "title": "Ganesh Kharat",
+                        "subTitle": "Special Educator",
+                        "paragraph": "Ganesh Kharat has a BA in Economics and a B.Ed and M.Ed in Special Education from the Ali Yavar Jung Institute for the Hearing Impaired. He joined the team in 2015 and works in the area of remedial education and rehabilitation of children attending Sahyog Sangharsh. He teaches vocational and functional skills to older children with special needs. His patient, gentle and firm interactions with them make him a good role model at this critical stage of their development.",
+                        "email": "ganesh@sahyogchehak.org.in",
+                        "imageURL": "ganesh.jpg"
+                    },
+                    {
+                        "title": "Asiya Shaikh",
+                        "subTitle": "Senior Programme Assistant",
+                        "paragraph": "Aasiya, a scholarship student from the first batch of Sahyog School in Jari Mari, has been integral to Sahyog Sangharsh for 13 years. She completed the Child Development Aide course in 2011 and now serves as a Senior Programme Assistant. Aasiya spearheads home-based therapy initiatives, guides speech therapy, and manages teaching responsibilities. She holds certificates in Basic Counseling and Paraprofessional courses from Nirmala Niketan, College of Social Work, and has completed her BA through distance education.",
+                        "email": "aasiya@sahyogchehak.org.in",
+                        "imageURL": "asiya.jpg"
+                    },
+                    {
+                        "title": "Gulshan Khan",
+                        "subTitle": "Special Educator",
+                        "paragraph": "Gulshan joined the Umang program in 2011 at our Dindoshi center, displaying a natural inclination for working with children with disabilities. In 2012, she enrolled in the Child Development Aid (CDA) Course at Ummeed Child Development Center. By 2013, she established the Early Intervention Center at Dindoshi, which she led for two years. Although the center closed in 2015, Gulshan began assisting the Sangharsh team. She pursued a two-year Diploma in Special Education Deaf Blind from the Helen Keller Institute (2016-2018) and now works as a special educator at the Sangharsh center.",
+                        "email": "gulshan@sahyogchehak.org.in",
+                        "imageURL": "gulshan.jpg"
+                    },
+                    {
+                        "title": "Zahida Shaikh",
+                        "subTitle": "Junior Programme Assistant",
+                        "paragraph": "Zahida is an alumnus of the Sahyog School and completed Class 10 through National Open Schooling in 2006. As a mother of 2 young children, Zahida first worked from home, tutoring neighbourhood children. Once her children began to go to school, she decided to step out of the house and was drawn to the work carried out in Sahyog Sangharsh. She joined in 2014 and works with the older children, teaching them vocational and functional skills. Zahida’s firm and focused manner instills a confidence in the older girls and they feel comfortable sharing their personal concerns with her.",
+                        "email": "zahida@sahyogchehak.org.in",
+                        "imageURL": "zahida.jpg"
+                    },
+                    {
+                        "title": "Saba khan",
+                        "subTitle": "Senior Programme Assistant",
+                        "paragraph": "Saba was a student of the Sahyog School in Dindoshi and graduated from the first batch of Umang in 2012. She began working in Sahyog in the same year and helped to set up the communty-based library programme, Roshan. Four years later, Saba is a Senior Programme Assitant and an integral part of Roshan where she reads stories to young children, conducts book-based activities and is involved in adminstration and outreach as well. She is a port in the storm for many children who share their concerns and confidences with her. Saba has completed her BA and is working to improve her skills as a library educator.",
+                        "email": "saba@sahyogchehak.org.in",
+                        "imageURL": "saba.jpg"
+                    },
+                    {
+                        "title": "Bilquis Shaikh",
+                        "subTitle": "Library Educator",
+                        "paragraph": "Bilquis joined as a teacher in the Sahyog School in 2002 and for almost a decade taught English, Business Studies and Economics to students appearing for their Class 10 exam. Her passion and perseverance to learn and teach English won her the opportunity to conduct spoken English classes for young women from the community in 2011. Since 2013 she has nurtured the growth of the Sahyog Roshan Library and now as Library Educator, handles the day to day operations of the community–based and mobile library with vigour and creativity. Bilquis can be trusted to venture into unknown territory and emerge successfully, eagerly awaiting the next adventure.",
+                        "email": "bilquis@sahyogchehak.org.in",
+                        "imageURL": "bilquis.jpg"
+                    },
+                    {
+                        "title": "Pooja Giri",
+                        "subTitle": "Jr Prog Assistant",
+                        "paragraph": "Pooja was a leader of the Self help group in the community and would participate actively in the women’s program organized by Sahyog. She therefore got acquainted with Sahyog’s program as a beneficiary  and later joined the Sahyog team in 2017, as a community health worker in the Sankalp Early Childhood and Disability program. Pooja had the skill to forge local networks and identify resources in the community with her connections through the self help groups. She began showing  interest in the Roshan community  library program and was taken onboard as a program assistant. Her journey from home maker to full time working women has been inspiring to other women in the community.",
+                        "email": "pooja@sahyogchehak.org.in",
+                        "imageURL": "pooja.jpg"
+                    },
+                    {
+                        "title": "Shivani Singh",
+                        "subTitle": "Programme Coordinator",
+                        "paragraph": "Shivani graduated with a BSc (Home Science) from Smt.P.N.Doshi College for Women in June 2017. Her association with Sahyog began in 2016 during her final year of studies. She actively participated in skill-building and career preparedness programs organized by Sahyog at her college. Shivani's interest in the social sector grew when she volunteered to escort two adolescents from Sangharsh, Sahyog's community-based rehabilitation program, to a vocational training center for a month. In August 2017, she joined Sahyog as Coordinator for the Scholarship-Mentorship program, offering intensive support to high school and junior college students.",
+                        "email": "shivani@sahyogchehak.org.in",
+                        "imageURL": "shivani.jpg"
+                    },
+                    {
+                        "title": "Gulistan Shaikh",
+                        "subTitle": "Paraworker, Sangharsh",
+                        "paragraph": "Gulistan joined the Sangharsh team in August 2022 as a Paraworker. Her introduction to Sahyog began during her tenure at a doctor's clinic near the old center, where she frequently engaged with the team and observed their activities. This exposure ignited her passion for joining the Sahyog Sangharsh program. Tasked with nurturing pre-primary children at the Sangharsh Satellite & Community centers, Gulistan's serene demeanor and affectionate approach profoundly impact both the children and young mothers. Leveraging her passion for drawing, she crafts educational materials for the centers. Currently pursuing the Child Developmental Aid course with Ummeed Child Development Centre, we anticipate her ability to support children, especially those with disabilities, will further enrich.",
+                        "email": "",
+                        "imageURL": "gulistan.jpg"
+                    },
+                    {
+                        "title": "Ummulwara Mohammad Jabir Siddiqui",
+                        "subTitle": "Paraworker, Sangharsh",
+                        "paragraph": "Ummul became a valued member of the Sangharsh team in September 2022, assuming the role of Paraworker. Focused on nurturing pre-primary children at the Sangharsh Satellite & Community centres, she brings prior experience in running tutorial classes from her home. Transitioning from an academic background, Ummul has demonstrated remarkable growth in her skills and perspective, particularly in her interactions with children with disabilities. With her HSC qualification already in hand, she is currently pursuing the Child Developmental Aid course with Ummeed Child Development Centre, a decision aimed at strengthening her knowledge base in early childhood development.",
+                        "email": "",
+                        "imageURL": "ummulwara.jpg"
+                    },
+                    {
+                        "title": "Rukshana Shaukat Ali Shaikh",
+                        "subTitle": "Paraworker, Sangharsh",
+                        "paragraph": "Rukhsana joined the Sahyog Sangharsh team in January 2023 initially on a trial basis. Despite lacking prior work experience, she quickly adapted to her role within a month. Rukhsana's innate nurturing demeanour and soft-spoken nature have facilitated strong connections with both the children and their parents. Diligent and conscientious, she approaches her responsibilities with sincerity and a willingness to learn. Having completed her SSC, she is currently enrolled in the Child Developmental Aid course at Ummeed Child Development Centre, demonstrating her commitment to furthering her understanding in the field. Rukhsana finds joy in her studies, eager to enhance her knowledge and skills.",
+                        "email": "",
+                        "imageURL": "rukshana.jpg"
+                    },
+                    {
+                        "title": "Alfiya Rafique Khan",
+                        "subTitle": "Part time Paraworker, Sangharsh",
+                        "paragraph": "Alfiya became a part-time volunteer with the Sangharsh team starting from July 2023. Currently pursuing her 10th grade through correspondence, Alfiya receives support from Sahyog for her studies. Her fascination with the Sangharsh program blossomed after witnessing the dedicated efforts of the teachers with the children. Despite being the youngest member of the team, Alfiya has demonstrated remarkable resilience and maturity in her interactions with both the children and their caregivers. We are delighted to welcome her into our Sahyog family.",
+                        "email": "",
+                        "imageURL": "alfiya.jpg"
+                    },
+                    {
+                        "title": "Shankar Dilip Sakat",
+                        "subTitle": "Outreach Coordinator",
+                        "paragraph": "Shankar joined the Sangharsh team in June 2023, taking on the role of Outreach Coordinator. With a background in grassroots organizations such as Asha Mahila Sanstha MDACS project, FPA, and Niramaya Health Foundation, he brings a wealth of experience in community outreach. Shankar has played a pivotal role in facilitating sessions with ANC and PNC workers on Early Childhood Disability Identification & Sensitization, fostering strong liaisons with government agencies. His dynamic leadership has been evident in spearheading outreach efforts in the newly operational community centers in Ghatkopar and Kurla. Through consistent engagement, he has strengthened relationships with existing stakeholders within these communities. We are confident that his expertise will enhance the visibility of Sahyog and establish crucial linkages for all our community programs.",
+                        "email": "",
+                        "imageURL": "shankar.jpg"
+                    }
+                ]
+            }
+        ],
+        "team": [
+            {
+                "title": "Neha Madhiwala",
+                "subTitle": "Founder Trustee Research Scientist, Public Health Trust of India",
+                "paragraph": "Neha is the Managing Trustee and the founder of Sahyog. She has a Masters in Social Work from Tata Institute of Social Sciences. She has worked in social research since 1997 and been involved in life-skills training and curriculum development since 2002."
+            },
+            {
+                "title": "Beena Choksi",
+                "subTitle": "Trustee, Educational Consultant",
+                "paragraph": "Beena has a Masters in Social Work from College of Social Work, Mumbai and a PhD in Education from the University of Illinois at Urbana-Champaign. She was a post-doctoral fellow at the Homi Bhabha Centre for Science Education.  She has worked on the professional development of teachers in formal and non-formal settings such as Shishuvan, Udayachal Primary School and Aseema."
+            },
+            {
+                "title": "Surabhi Sharma",
+                "subTitle": "Trustee & Independent Filmmaker",
+                "paragraph": "Surabhi has been making documentaries since 2000. Her key concern has been documenting cities in transition through the lens of labour, music and migration, and most recently reproductive labour. Her films have been screened and awarded at international film festivals, museums and universities."
+            },
+            {
+                "title": "Priya Agrawal",
+                "subTitle": "Founder Director, Antarang Foundation",
+                "paragraph": "Priya founded Antarang Foundation in 2012 to help young adults from socially and economically vulnerable backgrounds manage their transition from education to employment. Prior to setting up Antarang Foundation, she spent 11 years in the Social Sector leading organisations like SNEHA and The Akanksha Foundation as COO. Priya has a Masters in Management from the SP Jain Institute of Management and Research. Priya is an Ashoka Fellow, a Dasra Social Impact Leadership Fellow and an Unlimited India Growth Challenge Fellow."
+            },
+            {
+                "title": "Sonal Gandhi",
+                "subTitle": "Trustee, Education Enthusiast",
+                "paragraph": "Sonal, a Computer Science graduate from Shri Bhagubhai Mafatlal Polytechnic, holds a Microsoft Certified Professional designation. With experience as a lecturer in Computer Technology and as an IT Manager at a leading Electrical company, she brings a wealth of knowledge and expertise to the table. Passionate about education and community engagement, Sonal has been dedicated to teaching underprivileged children from a young age. Since 2017, she has been actively involved with Sahyog Sangharsh as a volunteer, where she played a pivotal role in shaping our local networking and collaboration strategies. Additionally, Sonal has served as a mentor to our scholarship recipients, embodying our commitment to empowering the next generation."
+            }
+        ]
+    },
+    "partners": {
+        "title": "Our Supporters and Promotters",
+        "subTitle": "",
+        "partners": [
+            {
+                "title": "Partners",
+                "logoCount": 7,
+                "logoInitial": "part",
+                "logoExtension": ".png"
+            },
+            {
+                "title": "Collaborations",
+                "logoCount": 17,
+                "logoInitial": "insti",
+                "logoExtension": ".png"
+            }
+        ],
+        "institutionalSupporters": [
+            {
+                "imageURL": "",
+                "imageTitle": ""
+            }
+        ]
+    },
+    "news": {
+        "title": "News/Coverage",
+        "subTitle": "",
+        "data": []
+    },
+    "finances": {
+        "title": "Reports",
+        "subTitle": "Chehak Trust is registered under the Bombay Public Trust Act, 1950 (Reg. No E-21112 – Mum) and under the Foreign Contributions Regulation Act for receipt of foreign donations (Registration No- 083781240)"
+    },
+    "joinUs": {
+        "title": "Transform Lives with Us",
+        "paragraph": "Become a driving force for positive change by joining Sahyog Chehak. Your contribution—whether through volunteering your time or partnering with us—makes a significant impact. By working together, we can create meaningful change and transform lives. Join our mission today and help us make a lasting difference in our communities.",
+        "buttons": [
+            {
+                "text": "Apply Now",
+                "icon": "FaLongArrowAltRight",
+                "type": "light",
+                "link": "https://docs.google.com/forms/d/1fUgjzZnFNyeSyP7HLMdV1MOH4xLwNYjcoOIQgK7KyVc/viewform?chromeless=1&edit_requested=true"
+            },
+            {
+                "text": "Email Us",
+                "icon": "IoMdMail",
+                "type": "dark",
+                "link": "mailto:volunteer@sahyogchehak.org.in"
+            }
+        ],
+        "volunteerRole": [
+            {
+                "icon": "LuLibrary",
+                "title": "Volunteer with the Roshan Library",
+                "paragraph": "Volunteer in our vibrant library and support our eager and enthusiastic children as they discover their love for reading and realise their hidden potentials.",
+                "list": [
+                    "Help children learn to read",
+                    "Conduct story telling sessions",
+                    "Introduce children to the world of music",
+                    "Help create art and displays for the library",
+                    "Share you interests and passion with children through diverse activities"
+                ]
+            },
+            {
+                "icon": "",
+                "title": "Volunteer with the Sangharsh Center",
+                "paragraph": "Volunteer at the centre for children with disabilities and while helping children master basic skills you may discover a few hidden talents of your own.",
+                "list": [
+                    "Conduct music and dance sessions with children",
+                    "Exercise your artistic abilities and help teachers create teaching aids",
+                    "Join us and help make celebrations extra special at Sangharsh",
+                    "Teach computers skills",
+                    "Help children learn vocational skills",
+                    "Accompany children to vocational centres and help them develop independent living skills",
+                    "Assist parents and children access medical and therapeutic services"
+                ]
+            }
+        ]
+    },
+    "partnerWithUs": {
+        "title": "Partner With Us",
+        "paragraph": "Partnerships and collaborations have been invaluable in Sahyog's growth and have significantly contributed to strengthening and enriching Sahyog’s programmes. Through partnerships we have been able to reach out to more beneficiaries and deliver our programmes more effectively. We welcome partnerships with like-minded organisations with whom we can create meaningful impact.",
+        "getInTouch": "Get in touch with us to explore opportunities for partnership",
+        "contactDetails": {
+            "email": "sahyogchehak@gmail.com",
+            "phone": "+918419908564"
+        }
+    },
+    "donation": {
+        "left": {
+            "title": "Support Our Mission with Your Donation",
+            "paragraph": "Your donation to Sahyog Chehak helps us support programs that enrich the lives of children and women. Together, we can make a lasting impact and ensure a brighter future for the next generation.",
+            "donationOptions": [
+                {
+                    "title": "Educate"
+                },
+                {
+                    "title": "Books"
+                },
+                {
+                    "title": "Medicine"
+                },
+                {
+                    "title": "Events"
+                },
+                {
+                    "title": "Sports"
+                },
+                {
+                    "title": "Others"
+                }
+            ]
+        },
+        "right": {
+            "title": "Choose Your Impact",
+            "bankDetails": {
+                "heading": "Bank Details for fund trasfer are as follows:",
+                "details": {
+                    "bankName": "The SVC Co-operative Bank Ltd",
+                    "bankBranch": "Vakola",
+                    "accountNumber": "102605130000545",
+                    "ifsc": "SVCB0000026"
+                },
+                "closingStatement": "8OG Certificate will be provided."
+            }
+        }
+    }
+}
